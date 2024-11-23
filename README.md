@@ -1,9 +1,9 @@
 # Praktikum 5
-Nama : RO'UF MUHAMMAD FAUZAN
+Nama : Acep Faturohman
 
 Kelas : TI.24.A1
 
-NIM : 312410157
+NIM : 312410098
 
 # Flowchart, input dan output dari Praktikum 5
 
